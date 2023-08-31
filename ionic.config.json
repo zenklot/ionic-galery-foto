@@ -1,5 +1,6 @@
 {
-  "name": "photo-gallery",
+  "name": "Galery Foto",
+  "id": "supriGaleryFoto",
   "integrations": {
     "capacitor": {}
   },
